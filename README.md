@@ -10,6 +10,12 @@ Laravel Multiple files and text upload with Jquery
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+![image](https://user-images.githubusercontent.com/29988949/57580375-8db8f480-745d-11e9-8a92-34833339f578.png)
+
+![image](https://user-images.githubusercontent.com/29988949/57580391-d96b9e00-745d-11e9-9cb4-7996d993571c.png)
+
+![image](https://user-images.githubusercontent.com/29988949/57580398-eb4d4100-745d-11e9-8b2a-d91751485ace.png)
+
 ## Installation
 - change database name in `.env` file
 - Run `php artisan migrate`
